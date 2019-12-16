@@ -1,0 +1,11 @@
+*.com
+*.class
+*.o
+*.so
+*.tmp
+*.bak
+*.hrb
+.history
+.hbmk
+*.NotInGit
+Thumbs.db
